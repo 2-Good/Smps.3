@@ -1,0 +1,1187 @@
+[{
+  "url": "https://smpschandausi.com/llms.txt",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/404.php",
+    "loadedTime": "2026-07-25T17:05:42.036Z",
+    "referrerUrl": "https://smpschandausi.com/llms.txt",
+    "httpStatusCode": 200,
+    "depth": 0,
+    "contentLengthBytes": 11504,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/404.php",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": null,
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:39 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "11504",
+      "keep-alive": "timeout=5, max=999",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Follow Us Edunext ERP Login Mobile App Manual Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure .widget ul.social-links li::before { content: ''; width: 1px; background-color: #b5b7c9; height: 18px; position: absolute; top: 8px; left: -7px; } .about-widget .social-links li a:before { background: #fff; } .mandi-view thead { background: #0a4d84; color: #fff; } .card-custom img { display: inline-block; max-width: 100%; padding: 4px; background-color: #fff; border: 1px solid #ddd; border-radius: 4px; -webkit-transition: all .2s ease-in-out; transition: all .2s ease-in-out; } .row.card-custom { background: #f5f5f5; padding: 10px; border: 1px solid #f0f0f0; margin: 10px; border-radius: 5px; padding-top: 20px; } /*.card { max-height: 100%; height: 450px; background: linear-gradient(98deg, #ebeef1d1, transparent); \n}*/\n.leading-section p { font-size: 14px; font-weight: 400; line-height: 21px; text-align: justify; word-spacing: 1px; margin: 0px; } .leading-section h3 { font-size: 16px; font-weight: 600; margin-bottom: 10px; } ←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%Keyboard shortcutsMap DataMap data ©2026Map data ©2026100 m Click to toggle between metric and imperial unitsTermsReport a map error function onEmbedLoad() { initEmbed([null,null,null,null,null,[[[2,\"spotlit\",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[[\"0\",\"18389025014078633360\"],\"/fake_latlng_mid\",null,[284349722,786999722],null,null,null,1],0,null,null,null,0,null,0]]]],null,[\"en\",\"in\"],[null,null,null,\"/maps/api/js/ApplicationService.GetEntityDetails\",\"/maps/embed/upgrade204\",null,\"/maps/embed/record204\"],null,null,null,null,null,null,null,null,\"5OxkaoHIJp3a0PEP0bac8QM\",null,null,null,[[[3508.478902233612,78.69778541507814,28.43497658249605],[0,0,0],null,13.10000038146973],null,0,[[null,\"28°26'05.9\\\"N 78°41'59.9\\\"E\",[28.4349722,78.69997219999999]],\"28°26'05.9\\\"N 78°41'59.9\\\"E\",[\"28.434972, 78.699972\"],null,null,null,null,null,null,null,null,null,null,\"CMMX+XXQ Gangadharpur, Uttar Pradesh\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,\"0ahUKEwiBys79p-6VAxUdLTQIHVEbJz4Q8BcIAygA\",null,null,null,null,null,null,null,[\"0ahUKEwiBys79p-6VAxUdLTQIHVEbJz4QqtMBCAcoAw\",[\"7JWWCMMX+XXQ\"],[\"CMMX+XXQ Gangadharpur, Uttar Pradesh\"],1]]],null,null,null,0,null,null,null,null,null,null,[1]]); } function onApiLoad() { var embed = document.createElement('script'); embed.src = \"https://maps.gstatic.com/maps-api-v3/embed/js/65/10a/init_embed.js\"; document.body.appendChild(embed); } \nBESbswy\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. Connect with Us Home About Us Our Promoter What We Offer Why Us Career Contact No. Mandatory Public Disclosure Contact Us SM EDUCATION CITY Shiv Shakti Nagar, NH-509, Chandausi, Sambhal-244414 www.smpschandausi.com career@smpschandausi.com info@smpschandausi.com +91-9258159506 @ Copyright 2024 All rights reserved | Designed & Maintained by Edunext Technologies baguetteBox.run('#gallery'); $(document).ready(function() { $(\".team_carousel\").owlCarousel({ navigation: false, slideSpeed: 500, paginationSpeed: 800, rewindSpeed: 1000, singleItem: true, autoPlay: true, stopOnHover: true, nav: true, dots: true, }); jQuery(function($) { // ALL SLIDER CALL sliderCall.photoGallery(); // Lightbox Triggers lightboxTrigger(); }); var sliderCall = { photoGallery: function() { var slider = $(\".gallery-slider\"); slider.slick({ dots: false, arrows: true, infinite: true, slidesToShow: 3, slidesToScroll: 3, responsive: [{ breakpoint: 768, settings: { slidesToShow: 2, slidesToScroll: 2 } }, { breakpoint: 500, settings: { slidesToShow: 1, slidesToScroll: 1, centerMode: true, centerPadding: '15px' } } ] }); } } function lightboxTrigger() { $('.popup-gallery').magnificPopup({ delegate: 'li a', type: 'image', fixedContentPos: true, closeOnBgClick: true, alignTop: false, tLoading: 'Loading image #%curr%...', mainClass: 'mfp-img-mobile', gallery: { enabled: true, navigateByImgClick: true, preload: [0, 1] // Will preload 0 - before current, and 1 after the current image } }); } }); const video = document.getElementById(\"video\"); const circlePlayButton = document.getElementById(\"circle-play-b\"); function togglePlay() { if (video.paused || video.ended) { video.play(); } else { video.pause(); } } circlePlayButton.addEventListener(\"click\", togglePlay); video.addEventListener(\"playing\", function() { circlePlayButton.style.opacity = 0; }); video.addEventListener(\"pause\", function() { circlePlayButton.style.opacity = 1; }); $(document).ready(function() { $('#newmodal').modal('show'); }); $(document).ready(function() { $('.toggle').click(function() { $('.sidebar-contact').toggleClass('active') $('.toggle').toggleClass('active') }) }) setTimeout(function() { $(\".sidebar-contact\").addClass(\"active\"); }, 800); $(document).ready(function() { $('#showcomp2').hide(500); $('#showcomp3').hide(500); $('#showcomp4').hide(500); $(\"#showcomptop1\").click(function() { $('#showcomp1').show(500); $('#showcomp2').hide(500); $('#showcomp3').hide(500); $('#showcomp4').hide(500); }); $(\"#showcomptop2\").click(function() { $('#showcomp2').show(500); $('#showcomp1').hide(500); $('#showcomp3').hide(500); $('#showcomp4').hide(500); }); $(\"#showcomptop3\").click(function() { $('#showcomp3').show(500); $('#showcomp2').hide(500); $('#showcomp1').hide(500); $('#showcomp4').hide(500); }); $(\"#showcomptop4\").click(function() { $('#showcomp4').show(500); $('#showcomp2').hide(500); $('#showcomp3').hide(500); $('#showcomp1').hide(500); }); }); $(\"#zoomin\").click(function() { var myImg = document.getElementById(\"map\"); var currWidth = myImg.clientWidth; if (currWidth == 2500) return false; else { myImg.style.width = (currWidth + 100) + \"px\"; } }); $(\"#zoomout\").click(function() { var myImg = document.getElementById(\"map\"); var currWidth = myImg.clientWidth; if (currWidth == 100) return false; else { myImg.style.width = (currWidth - 100) + \"px\"; } }); $(document).ready(function() { // Add smooth scrolling to all links $(\".smoothness\").on('click', function(event) { if (this.hash !== \"\") { event.preventDefault(); var hash = this.hash; $('html, body').animate({ scrollTop: $(hash).offset().top - 50 }, 800); } }); });",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "\n\n    \n\n        \n        \n            \n            \n                \n                    \n                        \n                            \n                                \n                            \n\n                        \n                        \n                            \n                                Follow Us\n                            \n                            \n                                \n                                    \n                                    \n                                    \n                                \n                            \n                            \n                                Edunext ERP\n                                        Login\n                            \n                            \n                                Mobile App\n                                        Manual\n                            \n\n                        \n                    \n                \n            \n\n            \n            \n                \n                    \n                        \n\n                        \n                            \n\n                            \n                                \n                                \n\n                                \n                                \n                                    \n                                        \n                                        Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure                                     \n                                \n                            \n                        \n                    \n                \n            \n            \n\n            \n            \n                \n                    \n                        \n                            \n                            \n                                \n                            \n                            \n                                \n                                \n                                    \n                                    \n\n                                    \n                                    \n                                    \n                                    \n                                        \n                                        Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure                                     \n                                \n                                \n                            \n                        \n                    \n                \n            \n            \n\n            \n            \n                \n                \n\n                \n                    \n                    \n                        \n                    \n                                    \n                                        \n                                        Home About Us Our Promoter What We Offer Circulars Leadership Team Gallery Image GalleryVideo Gallery Why Us Our Affiliates Mandatory Public Disclosure                                     \n                                \n                    \n                    \n                        \n                            \n                            \n                            \n                        \n                    \n                \n            \n\n\n            \n                \n                \n            \n        \n        \n\n\n    \n        \n            \n                \n                    \n                        \n                            \n                                \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                    \n                                \n                            \n                        \n                    \n                \n            \n        \n    \n\n\n    .widget ul.social-links li::before {\n        content: '';\n        width: 1px;\n        background-color: #b5b7c9;\n        height: 18px;\n        position: absolute;\n        top: 8px;\n        left: -7px;\n    }\n\n    .about-widget .social-links li a:before {\n        background: #fff;\n    }\n\n    .mandi-view thead {\n        background: #0a4d84;\n        color: #fff;\n    }\n\n\n    .card-custom img {\n        display: inline-block;\n        max-width: 100%;\n        padding: 4px;\n        background-color: #fff;\n        border: 1px solid #ddd;\n        border-radius: 4px;\n        -webkit-transition: all .2s ease-in-out;\n        transition: all .2s ease-in-out;\n    }\n\n\n    .row.card-custom {\n        background: #f5f5f5;\n        padding: 10px;\n        border: 1px solid #f0f0f0;\n        margin: 10px;\n        border-radius: 5px;\n        padding-top: 20px;\n    }\n\n    /*.card {\n    max-height: 100%;\n    height: 450px;\n    background: linear-gradient(98deg, #ebeef1d1, transparent);\n}*/\n\n    .leading-section p {\n        font-size: 14px;\n        font-weight: 400;\n        line-height: 21px;\n        text-align: justify;\n        word-spacing: 1px;\n        margin: 0px;\n    }\n\n    .leading-section h3 {\n        font-size: 16px;\n        font-weight: 600;\n        margin-bottom: 10px;\n    }\n\n\n\n    \n    ←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%Keyboard shortcutsMap DataMap data ©2026Map data ©2026100 m Click to toggle between metric and imperial unitsTermsReport a map error\n      \n    \n      function onEmbedLoad() {\n        initEmbed([null,null,null,null,null,[[[2,\"spotlit\",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[[\"0\",\"18389025014078633360\"],\"/fake_latlng_mid\",null,[284349722,786999722],null,null,null,1],0,null,null,null,0,null,0]]]],null,[\"en\",\"in\"],[null,null,null,\"/maps/api/js/ApplicationService.GetEntityDetails\",\"/maps/embed/upgrade204\",null,\"/maps/embed/record204\"],null,null,null,null,null,null,null,null,\"5OxkaoHIJp3a0PEP0bac8QM\",null,null,null,[[[3508.478902233612,78.69778541507814,28.43497658249605],[0,0,0],null,13.10000038146973],null,0,[[null,\"28°26'05.9\\\"N 78°41'59.9\\\"E\",[28.4349722,78.69997219999999]],\"28°26'05.9\\\"N 78°41'59.9\\\"E\",[\"28.434972, 78.699972\"],null,null,null,null,null,null,null,null,null,null,\"CMMX+XXQ Gangadharpur, Uttar Pradesh\",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,\"0ahUKEwiBys79p-6VAxUdLTQIHVEbJz4Q8BcIAygA\",null,null,null,null,null,null,null,[\"0ahUKEwiBys79p-6VAxUdLTQIHVEbJz4QqtMBCAcoAw\",[\"7JWWCMMX+XXQ\"],[\"CMMX+XXQ Gangadharpur, Uttar Pradesh\"],1]]],null,null,null,0,null,null,null,null,null,null,[1]]);\n      }\n      function onApiLoad() {\n        var embed = document.createElement('script');\n        embed.src = \"https://maps.gstatic.com/maps-api-v3/embed/js/65/10a/init_embed.js\";\n        document.body.appendChild(embed);\n      }\n    \n    \n    \n  \n\nBESbswy\n    \n        \n        \n            \n\n                \n                \n                    \n                        \n                            \n                            As a signatory to the 2030 Agenda for sustainable development\n                                goals, India has taken up the responsibility of providing quality education.\n                            Connect with Us\n                            \n                                \n                                \n                                \n                            \n                        \n\n                    \n                \n\n                \n\n                \n                    \n                        \n                            Home\n                            \n                                About Us \n                                Our Promoter\n                                What We Offer\n                                Why Us\n                                Career\n                                Contact No.\n                                Mandatory Public Disclosure\n                            \n                        \n                        \n                            Contact Us\n                            \n                                SM EDUCATION CITY\n                                Shiv Shakti Nagar, NH-509, Chandausi, Sambhal-244414\n                                www.smpschandausi.com\n                                career@smpschandausi.com\n                                info@smpschandausi.com\n                                +91-9258159506\n                            \n                        \n                    \n                \n\n\n                \n\n                \n\n                \n\n\n            \n        \n    \n    \n    \n        \n            \n\n                \n                    @ Copyright 2024 All rights reserved | Designed & Maintained by Edunext\n                            Technologies\n                \n            \n        \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    baguetteBox.run('#gallery');\n\n\n\n\n    $(document).ready(function() {\n        $(\".team_carousel\").owlCarousel({\n            navigation: false,\n            slideSpeed: 500,\n            paginationSpeed: 800,\n            rewindSpeed: 1000,\n            singleItem: true,\n            autoPlay: true,\n            stopOnHover: true,\n            nav: true,\n            dots: true,\n        });\n\n\n\n        jQuery(function($) {\n            // ALL SLIDER CALL\n            sliderCall.photoGallery();\n            // Lightbox Triggers\n            lightboxTrigger();\n        });\n\n        var sliderCall = {\n            photoGallery: function() {\n                var slider = $(\".gallery-slider\");\n                slider.slick({\n                    dots: false,\n                    arrows: true,\n                    infinite: true,\n                    slidesToShow: 3,\n                    slidesToScroll: 3,\n                    responsive: [{\n                            breakpoint: 768,\n                            settings: {\n                                slidesToShow: 2,\n                                slidesToScroll: 2\n                            }\n                        },\n                        {\n                            breakpoint: 500,\n                            settings: {\n                                slidesToShow: 1,\n                                slidesToScroll: 1,\n                                centerMode: true,\n                                centerPadding: '15px'\n                            }\n                        }\n                    ]\n                });\n            }\n        }\n\n        function lightboxTrigger() {\n            $('.popup-gallery').magnificPopup({\n                delegate: 'li a',\n                type: 'image',\n                fixedContentPos: true,\n                closeOnBgClick: true,\n                alignTop: false,\n                tLoading: 'Loading image #%curr%...',\n                mainClass: 'mfp-img-mobile',\n                gallery: {\n                    enabled: true,\n                    navigateByImgClick: true,\n                    preload: [0, 1] // Will preload 0 - before current, and 1 after the current image\n                }\n            });\n        }\n\n\n    });\n\n\n\n    const video = document.getElementById(\"video\");\n    const circlePlayButton = document.getElementById(\"circle-play-b\");\n\n    function togglePlay() {\n        if (video.paused || video.ended) {\n            video.play();\n        } else {\n            video.pause();\n        }\n    }\n\n    circlePlayButton.addEventListener(\"click\", togglePlay);\n    video.addEventListener(\"playing\", function() {\n        circlePlayButton.style.opacity = 0;\n    });\n    video.addEventListener(\"pause\", function() {\n        circlePlayButton.style.opacity = 1;\n    });\n\n\n\n    $(document).ready(function() {\n        $('#newmodal').modal('show');\n    });\n\n\n\n    $(document).ready(function() {\n        $('.toggle').click(function() {\n            $('.sidebar-contact').toggleClass('active')\n            $('.toggle').toggleClass('active')\n        })\n    })\n\n\n\n    setTimeout(function() {\n        $(\".sidebar-contact\").addClass(\"active\");\n    }, 800);\n\n\n\n\n    $(document).ready(function() {\n        $('#showcomp2').hide(500);\n        $('#showcomp3').hide(500);\n        $('#showcomp4').hide(500);\n        $(\"#showcomptop1\").click(function() {\n            $('#showcomp1').show(500);\n            $('#showcomp2').hide(500);\n            $('#showcomp3').hide(500);\n            $('#showcomp4').hide(500);\n        });\n        $(\"#showcomptop2\").click(function() {\n            $('#showcomp2').show(500);\n            $('#showcomp1').hide(500);\n            $('#showcomp3').hide(500);\n            $('#showcomp4').hide(500);\n        });\n\n        $(\"#showcomptop3\").click(function() {\n            $('#showcomp3').show(500);\n            $('#showcomp2').hide(500);\n            $('#showcomp1').hide(500);\n            $('#showcomp4').hide(500);\n        });\n\n        $(\"#showcomptop4\").click(function() {\n            $('#showcomp4').show(500);\n            $('#showcomp2').hide(500);\n            $('#showcomp3').hide(500);\n            $('#showcomp1').hide(500);\n        });\n    });\n\n    $(\"#zoomin\").click(function() {\n        var myImg = document.getElementById(\"map\");\n        var currWidth = myImg.clientWidth;\n        if (currWidth == 2500) return false;\n        else {\n            myImg.style.width = (currWidth + 100) + \"px\";\n        }\n    });\n\n    $(\"#zoomout\").click(function() {\n        var myImg = document.getElementById(\"map\");\n        var currWidth = myImg.clientWidth;\n        if (currWidth == 100) return false;\n        else {\n            myImg.style.width = (currWidth - 100) + \"px\";\n        }\n    });\n\n\n\n    $(document).ready(function() {\n        // Add smooth scrolling to all links\n        $(\".smoothness\").on('click', function(event) {\n            if (this.hash !== \"\") {\n                event.preventDefault();\n\n                var hash = this.hash;\n                $('html, body').animate({\n                    scrollTop: $(hash).offset().top - 50\n                }, 800);\n            }\n        });\n    });\n\n\n\n\n",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/",
+    "loadedTime": "2026-07-25T17:05:41.827Z",
+    "referrerUrl": "https://smpschandausi.com/",
+    "httpStatusCode": 200,
+    "depth": 0,
+    "contentLengthBytes": 12966,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:39 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "12966",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nNEWS\nWELCOME TO\nMP SINGH FOUNDATION\nMP SINGH FOUNDATION \nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious. \nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students. \nRead More \nMr. M.P. Singh\nFounder Chairman\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... Read More\nMrs. Shashi Singh\nChairperson\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... Read More \nAtul Kumar Singh\nManaging Director\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.\nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... Read More\nWHAT WE OFFER\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n10 acre ground\n(Campus)\nConference Room\n(Campus) \nGreen Campus\n(Campus)\nCalm Ambience\n(Campus)\nState of Art Amenities\n(Campus)\nSchool Building\n(Campus)\nClass Room\n(Education)\nActivity Room \n(Education) \nComputer Lab\n(Education)\nMath Lab \n(Education)\nScience Lab\n(Education)\nLibrary\n(Education)\nCarrom\n(Indoor Games)\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\nChess\n(Indoor Games)\nTable Tennis\n(Indoor Games) \nCricket\n(Outdoor Games)\nKho Kho\n(Outdoor Games)\nSkating\n(Outdoor Games)\nBasketball\n(Outdoor Games) \nActivity\n(Other Facilites)\nDance \n(Other Facilites)\nWHY US\nWHY CHOOSE US\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\nPHASE 1\nK-12 school and sports academy\nPHASE 2\nVocational courses\nPHASE 3\nGraduate and Postgraduate degrees\nOUR AFFILIATES\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![SMPS, Chandausi](https://smpschandausi.com/images/WhatsApp.webp)](https://wa.me/+919258159506 \"Whatsapp\")\n\n![SMPS, Chandausi](https://smpschandausi.com/assets/icons/news.svg)\n\n###### NEWS\n\nWELCOME TO\n\n## MP SINGH FOUNDATION\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/sm-chandausi-4.png)\n\nMP SINGH FOUNDATION\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious.\n\nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students.\n\n[Read More](https://smpschandausi.com/about-us)\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/sm-chandausi-2.png)\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/merut.png)\n\n## Mr. M.P. Singh\n\n###### Founder Chairman\n\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... [Read More](https://smpschandausi.com/founder-chairman)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/mp-singh.png)\n\n## Mrs. Shashi Singh\n\n###### Chairperson\n\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.  \nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... [Read More](https://smpschandausi.com/chairperson)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/chairperson.png)\n\n## Atul Kumar Singh\n\n###### Managing Director\n\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.  \nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.  \nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... [Read More](https://smpschandausi.com/managing-director)\n\n![SM Chandausi Director](https://smpschandausi.com/assets/images/atul-singh.png)\n\n## WHAT WE OFFER\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0030.jpg)\n\n###### 10 acre ground  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/conference.jpg)\n\n###### Conference Room  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0026.jpg)\n\n###### Green Campus  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105255689_HDR_AE.jpg)\n\n###### Calm Ambience  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105003539_HDR_AE.jpg)\n\n###### State of Art Amenities  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0028.jpg)\n\n###### School Building  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_8465.jpg)\n\n###### Class Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/activity-room.jpg)\n\n###### Activity Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/computerlab.jpg)\n\n###### Computer Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/mathslab.jpg)\n\n###### Math Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/sciencelab.jpg)\n\n###### Science Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/library-new.jpg)\n\n###### Library  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/carrom.jpg)\n\n###### Carrom  \n_(Indoor Games)_\n\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/Chess.jpg)\n\n###### Chess  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/tabletennis.jpg)\n\n###### Table Tennis  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/cricket.jpg)\n\n###### Cricket  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/kho-kho.jpg)\n\n###### Kho Kho  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/skating.jpg)\n\n###### Skating  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/basketball.jpg)\n\n###### Basketball  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241109-WA0014.jpg)\n\n###### Activity  \n_(Other Facilites)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/dance.jpg)\n\n###### Dance  \n_(Other Facilites)_\n\nWHY US\n\n## WHY CHOOSE US\n\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\n\n![Best School in Chandausi](https://smpschandausi.com/images/whyus1.png)\n\n###### **PHASE 1**\n\nK-12 school and sports academy\n\n![ Best School in Chandausi](https://smpschandausi.com/images/whyus2.png)\n\n###### **PHASE 2**\n\nVocational courses\n\n![ Best School in Chandausi](https://smpschandausi.com/images/whyus3.png)\n\n###### **PHASE 3**\n\nGraduate and Postgraduate degrees\n\n## OUR AFFILIATES\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/about-us",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/about-us",
+    "loadedTime": "2026-07-25T17:05:49.711Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6340,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "About Us",
+    "description": null,
+    "author": null,
+    "keywords": "About Us ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:47 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6340",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "About Us\nWelcome to MP SINGH FOUNDATION\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed.\nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School, Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students. Furthering his resolve to spread quality education, Mr. Singh established Delhi Public School in Dehradun in 2008, which has two branches, A) Kalagaon, Sahastradhara Road, Dehradun, B) Rajpur road, Dehradun. The school is reaching out to the community not only of Dehradun but also Rishikesh & Mussoorie. The school is benefiting 2300 students as of now, and Shashi Madan Public School, Chandausi.\nThese schools under the M P Singh Foundation work relentlessly with a mission to develop students of high academic achievement, intellectual curiosity and strong moral character. The Foundation aims at nurturing respectful, responsible and compassionate young adults who are well-prepared to tackle the challenges that lie ahead.\nBesides, the Foundation aim to provide a learning environment where children evolve as individuals who are self-motivated and creative, who can ponder, question and reason out logically and work diligently to integrate values with our pedagogical techniques to build a holistic profile and groom to venture into the global arena with an optimistic amalgamation of strength, character and academic excellence.\nOpen mindedness, a multicultural orientation, independence, a global outlook and multiple intelligences, these are the premium qualities needed today. As a 21st century organization, the schools under the Foundation desire to set an approach to learning that incorporates inquiry, research, analytical thinking and an ethical approach that becomes a lifetime habit.\nM P Singh Foundation believes in loving what we do and doing what we all love; whether its academic achievement, athletic discipline, community connection or collaborative projects, our students soar.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# About Us\n\n![](https://smpschandausi.com/images/smpc-view.jpg)\n\n## Welcome to MP SINGH FOUNDATION\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed.  \nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School, Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students. Furthering his resolve to spread quality education, Mr. Singh established Delhi Public School in Dehradun in 2008, which has two branches, A) Kalagaon, Sahastradhara Road, Dehradun, B) Rajpur road, Dehradun. The school is reaching out to the community not only of Dehradun but also Rishikesh & Mussoorie. The school is benefiting 2300 students as of now, and Shashi Madan Public School, Chandausi.\n\nThese schools under the M P Singh Foundation work relentlessly with a mission to develop students of high academic achievement, intellectual curiosity and strong moral character. The Foundation aims at nurturing respectful, responsible and compassionate young adults who are well-prepared to tackle the challenges that lie ahead.\n\nBesides, the Foundation aim to provide a learning environment where children evolve as individuals who are self-motivated and creative, who can ponder, question and reason out logically and work diligently to integrate values with our pedagogical techniques to build a holistic profile and groom to venture into the global arena with an optimistic amalgamation of strength, character and academic excellence.\n\nOpen mindedness, a multicultural orientation, independence, a global outlook and multiple intelligences, these are the premium qualities needed today. As a 21st century organization, the schools under the Foundation desire to set an approach to learning that incorporates inquiry, research, analytical thinking and an ethical approach that becomes a lifetime habit.\n\nM P Singh Foundation believes in loving what we do and doing what we all love; whether its academic achievement, athletic discipline, community connection or collaborative projects, our students soar.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/index.php",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/index.php",
+    "loadedTime": "2026-07-25T17:05:49.723Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 12966,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:47 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "12966",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nNEWS\nWELCOME TO\nMP SINGH FOUNDATION\nMP SINGH FOUNDATION \nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious. \nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students. \nRead More \nMr. M.P. Singh\nFounder Chairman\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... Read More\nMrs. Shashi Singh\nChairperson\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... Read More \nAtul Kumar Singh\nManaging Director\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.\nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... Read More\nWHAT WE OFFER\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n10 acre ground\n(Campus)\nConference Room\n(Campus) \nGreen Campus\n(Campus)\nCalm Ambience\n(Campus)\nState of Art Amenities\n(Campus)\nSchool Building\n(Campus)\nClass Room\n(Education)\nActivity Room \n(Education) \nComputer Lab\n(Education)\nMath Lab \n(Education)\nScience Lab\n(Education)\nLibrary\n(Education)\nCarrom\n(Indoor Games)\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\nChess\n(Indoor Games)\nTable Tennis\n(Indoor Games) \nCricket\n(Outdoor Games)\nKho Kho\n(Outdoor Games)\nSkating\n(Outdoor Games)\nBasketball\n(Outdoor Games) \nActivity\n(Other Facilites)\nDance \n(Other Facilites)\nWHY US\nWHY CHOOSE US\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\nPHASE 1\nK-12 school and sports academy\nPHASE 2\nVocational courses\nPHASE 3\nGraduate and Postgraduate degrees\nOUR AFFILIATES\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![SMPS, Chandausi](https://smpschandausi.com/images/WhatsApp.webp)](https://wa.me/+919258159506 \"Whatsapp\")\n\n![SMPS, Chandausi](https://smpschandausi.com/assets/icons/news.svg)\n\n###### NEWS\n\nWELCOME TO\n\n## MP SINGH FOUNDATION\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/sm-chandausi-4.png)\n\nMP SINGH FOUNDATION\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious.\n\nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students.\n\n[Read More](https://smpschandausi.com/about-us)\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/sm-chandausi-2.png)\n\n![SM-Chandausi-foundation](https://smpschandausi.com/assets/images/merut.png)\n\n## Mr. M.P. Singh\n\n###### Founder Chairman\n\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... [Read More](https://smpschandausi.com/founder-chairman)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/mp-singh.png)\n\n## Mrs. Shashi Singh\n\n###### Chairperson\n\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.  \nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... [Read More](https://smpschandausi.com/chairperson)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/chairperson.png)\n\n## Atul Kumar Singh\n\n###### Managing Director\n\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.  \nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.  \nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... [Read More](https://smpschandausi.com/managing-director)\n\n![SM Chandausi Director](https://smpschandausi.com/assets/images/atul-singh.png)\n\n## WHAT WE OFFER\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0030.jpg)\n\n###### 10 acre ground  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/conference.jpg)\n\n###### Conference Room  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0026.jpg)\n\n###### Green Campus  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105255689_HDR_AE.jpg)\n\n###### Calm Ambience  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105003539_HDR_AE.jpg)\n\n###### State of Art Amenities  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0028.jpg)\n\n###### School Building  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_8465.jpg)\n\n###### Class Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/activity-room.jpg)\n\n###### Activity Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/computerlab.jpg)\n\n###### Computer Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/mathslab.jpg)\n\n###### Math Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/sciencelab.jpg)\n\n###### Science Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/library-new.jpg)\n\n###### Library  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/carrom.jpg)\n\n###### Carrom  \n_(Indoor Games)_\n\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/Chess.jpg)\n\n###### Chess  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/tabletennis.jpg)\n\n###### Table Tennis  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/cricket.jpg)\n\n###### Cricket  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/kho-kho.jpg)\n\n###### Kho Kho  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/skating.jpg)\n\n###### Skating  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/basketball.jpg)\n\n###### Basketball  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241109-WA0014.jpg)\n\n###### Activity  \n_(Other Facilites)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/dance.jpg)\n\n###### Dance  \n_(Other Facilites)_\n\nWHY US\n\n## WHY CHOOSE US\n\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\n\n![Best School in Chandausi](https://smpschandausi.com/images/whyus1.png)\n\n###### **PHASE 1**\n\nK-12 school and sports academy\n\n![ Best School in Chandausi](https://smpschandausi.com/images/whyus2.png)\n\n###### **PHASE 2**\n\nVocational courses\n\n![ Best School in Chandausi](https://smpschandausi.com/images/whyus3.png)\n\n###### **PHASE 3**\n\nGraduate and Postgraduate degrees\n\n## OUR AFFILIATES\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/our-promoter",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/our-promoter",
+    "loadedTime": "2026-07-25T17:05:50.741Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6375,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Our Promoter",
+    "description": null,
+    "author": null,
+    "keywords": "Our Promoter ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:49 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6375",
+      "keep-alive": "timeout=5, max=999",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Our Promoter\nMr. M.P.Singh\nFounder Chairman\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... Read More\nMrs. Shashi Singh\nChairperson\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... Read More\nAtul Kumar Singh\nManaging Director\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.\nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... Read More",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Our Promoter\n\n## Mr. M.P.Singh\n\n###### Founder Chairman\n\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... [Read More](https://smpschandausi.com/founder-chairman)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/mp-singh.png)\n\n## Mrs. Shashi Singh\n\n###### Chairperson\n\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.  \nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... [Read More](https://smpschandausi.com/chairperson)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/chairperson.png)\n\n## Atul Kumar Singh\n\n###### Managing Director\n\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.  \nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.  \nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... [Read More](https://smpschandausi.com/managing-director)\n\n![SM Chandausi Chairman](https://smpschandausi.com/assets/images/atul-singh.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/what-we-offer",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/what-we-offer",
+    "loadedTime": "2026-07-25T17:05:53.631Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6215,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "What We Offer",
+    "description": null,
+    "author": null,
+    "keywords": "What We Offer ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:52 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6215",
+      "keep-alive": "timeout=5, max=998",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "What We Offer\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n10 acre ground\n(Campus)\nCCTV Surveillance\n(Campus)\nGreen Campus\n(Campus)\nCalm Ambience\n(Campus)\nState of Art Amenities\n(Campus)\nVisual Appealing Landscape\n(Campus)\nAir Condition Classes\n(Education)\nSmart Classes\n(Education)\nState of Art Laboratories\n(Education)\nDance Drama Music & Art\n(Education)\nThinking\n(Education)\nLibrary\n(Education)\nBadminton\n(Outdoor Games)\nFootball\n(Outdoor Games)\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\nCricket\n(Outdoor Games)\nHockey\n(Outdoor Games)\nSkating\n(Outdoor Games)\nBasketball\n(Outdoor Games)\nAir Condition Buses\n(Other Facilites)\nGPS & Camera Equipped Transport\n(Other Facilites)\nCollege & Career Counselling\n(Other Facilites)\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust\nDifferent Programmes\n(Other Facilites)\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust\nFocus on Life Skills\n(Other Facilites)\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# What We Offer\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus1.png)\n\n###### 10 acre ground  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus2.png)\n\n###### CCTV Surveillance  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus3.png)\n\n###### Green Campus  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus4.png)\n\n###### Calm Ambience  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus5.png)\n\n###### State of Art Amenities  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/campus6.png)\n\n###### Visual Appealing Landscape  \n_(Campus)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education1.png)\n\n###### Air Condition Classes  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education2.png)\n\n###### Smart Classes  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education3.png)\n\n###### State of Art Laboratories  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education4.png)\n\n###### Dance Drama Music & Art  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education5.png)\n\n###### Thinking  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/education6.png)\n\n###### Library  \n_(Education)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports1.png)\n\n###### Badminton  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports2.png)\n\n###### Football  \n_(Outdoor Games)_\n\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports3.png)\n\n###### Cricket  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports4.png)\n\n###### Hockey  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports5.png)\n\n###### Skating  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/sports6.png)\n\n###### Basketball  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/facilities1.png)\n\n###### Air Condition Buses  \n_(Other Facilites)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/facilities2.png)\n\n###### GPS & Camera Equipped Transport  \n_(Other Facilites)_\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/facilities3.png)\n\n###### College & Career Counselling  \n_(Other Facilites)_\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/facilities4.png)\n\n###### Different Programmes  \n_(Other Facilites)_\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust\n\n![Sm Chandausi Campus](https://smpschandausi.com/images/facilities5.png)\n\n###### Focus on Life Skills  \n_(Other Facilites)_\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/circulars.php",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/circulars.php",
+    "loadedTime": "2026-07-25T17:05:56.528Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5288,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Circulars",
+    "description": null,
+    "author": null,
+    "keywords": "Circulars ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:55 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5288",
+      "keep-alive": "timeout=5, max=997",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Circulars\nFollow Us \nEdunext ERP Login\nMobile App Manual",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Circulars\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/leadership-team",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/leadership-team",
+    "loadedTime": "2026-07-25T17:05:57.034Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5470,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Leadership Team",
+    "description": null,
+    "author": null,
+    "keywords": "Leadership Team ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:05:55 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5470",
+      "keep-alive": "timeout=5, max=996",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Leadership Team\nTEAM\nWe have an inspiring team\nMs. Anumeha Jakhar\n(Director Administration)\nDr. Suveta Singh\n(Director Academics)",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Leadership Team\n\nTEAM\n\nWe have an inspiring team\n\n![Card image cap](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1741259127327_Anumeha_Jakhar.jpg)\n\n###### Ms. Anumeha Jakhar\n\n(Director Administration)\n\n![Card image cap](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1741259105515_Suveta_Singh.jpg)\n\n###### Dr. Suveta Singh\n\n(Director Academics)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/gallery.php",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/gallery.php",
+    "loadedTime": "2026-07-25T17:06:04.312Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6372,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:02 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6372",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nImage Gallery \nVividhanjali 2023... \nSpecial Events 2023... \nVividhanjali 2024... \nSports... \nGuest Visit... \nOur Classroom... \nVividhanjali 3.0 (2025)... \nEvents & Activity (2025-26)... \nPariksha Pe Charcha 2026...",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n## Image Gallery\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738728236304_DSC_4309_1.JPG)\n\n###### Vividhanjali 2023...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738728002009_IMG_1151.jpeg)\n\n###### Special Events 2023...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735838208_24ce0092dc9541faa26ac08f67846259.jpeg)\n\n###### Vividhanjali 2024...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738736179487_7c4c92badc3a4412b159a67603faa9a3.jpeg)\n\n###### Sports...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738736390686_IMG_6320.jpeg)\n\n###### Guest Visit...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738748695721_IMG_7053.jpeg)\n\n###### Our Classroom...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618245671_DSC_1677.JPG)\n\n###### Vividhanjali 3.0 (2025)...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771395359660_WhatsApp_Image_20260218_at_9.50.38_AM.jpeg)\n\n###### Events & Activity (2025-26)...\n\n![](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908096661_WhatsApp_Image_20260209_at_6.09.19_PM_1.jpeg)\n\n###### Pariksha Pe Charcha 2026...",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/our-affiliates",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/our-affiliates",
+    "loadedTime": "2026-07-25T17:06:05.402Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5595,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Our Affiliates",
+    "description": null,
+    "author": null,
+    "keywords": "Our Affiliates ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:02 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5595",
+      "keep-alive": "timeout=5, max=999",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Our Affiliates\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Our Affiliates\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/why-us",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/why-us",
+    "loadedTime": "2026-07-25T17:06:05.414Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5650,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Why Us",
+    "description": null,
+    "author": null,
+    "keywords": "Why Us ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:02 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5650",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Why Us\nWHY US\nWHY CHOOSE US\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\nPHASE 1\nK-12 school and sports academy\nPHASE 2\nVocational courses\nPHASE 3\nGraduate and Postgraduate degrees",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Why Us\n\nWHY US\n\n## WHY CHOOSE US\n\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\n\n![Card image cap](https://smpschandausi.com/images/whyus1.png)\n\n###### **PHASE 1**\n\nK-12 school and sports academy\n\n![Card image cap](https://smpschandausi.com/images/whyus2.png)\n\n###### **PHASE 2**\n\nVocational courses\n\n![Card image cap](https://smpschandausi.com/images/whyus3.png)\n\n###### **PHASE 3**\n\nGraduate and Postgraduate degrees",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/video-gallery.php",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/video-gallery.php",
+    "loadedTime": "2026-07-25T17:06:04.418Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6478,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:02 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6478",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nShashi Madan Public School182 subscribers\nVividhanjali 3.0 (2025)\nShashi Madan Public School182 subscribers\nLegendary PADAMSHRI Kailash Kher & Kailasha Visit SMPS Chandausi\nShashi Madan Public School182 subscribers\nCBSE Induction Training Programme: A Grand Success\nShashi Madan Public School182 subscribers\nInternational Yoga Day - 21 June 2024\nShashi Madan Public School182 subscribers\nFestival of Radiance: Vividhanjali Delight\nShashi Madan Public School182 subscribers\nVividhanjali 2.0 (Day-2 Utsav Khelo Ka 2024) Prize Distribution at SMPS Chandausi\nShashi Madan Public School182 subscribers\nIndependence Day Celebration at SMPS Chandausi\nShashi Madan Public School182 subscribers\nSMPS Students Agriculture Farm Visit\nShashi Madan Public School182 subscribers\nHarmony in Homeland: Teri Mitti Mein Mil Jaun Musical Tribute\nShashi Madan Public School182 subscribers\nEvent Highlight Shashi Madan Public School Founders Day Celebration\nShashi Madan Public School182 subscribers\nRebellions Flame: The Saga of Mangal Pandey",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\nShashi Madan Public School182 subscribers\n\n#### Vividhanjali 3.0 (2025)\n\nShashi Madan Public School182 subscribers\n\n#### Legendary PADAMSHRI Kailash Kher & Kailasha Visit SMPS Chandausi\n\nShashi Madan Public School182 subscribers\n\n#### CBSE Induction Training Programme: A Grand Success\n\nShashi Madan Public School182 subscribers\n\n#### International Yoga Day - 21 June 2024\n\nShashi Madan Public School182 subscribers\n\n#### Festival of Radiance: Vividhanjali Delight\n\nShashi Madan Public School182 subscribers\n\n#### Vividhanjali 2.0 (Day-2 Utsav Khelo Ka 2024) Prize Distribution at SMPS Chandausi\n\nShashi Madan Public School182 subscribers\n\n#### Independence Day Celebration at SMPS Chandausi\n\nShashi Madan Public School182 subscribers\n\n#### SMPS Students Agriculture Farm Visit\n\nShashi Madan Public School182 subscribers\n\n#### Harmony in Homeland: Teri Mitti Mein Mil Jaun Musical Tribute\n\nShashi Madan Public School182 subscribers\n\n#### Event Highlight Shashi Madan Public School Founders Day Celebration\n\nShashi Madan Public School182 subscribers\n\n#### Rebellions Flame: The Saga of Mangal Pandey",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/mandatory-public-disclosure",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/mandatory-public-disclosure",
+    "loadedTime": "2026-07-25T17:06:19.577Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6984,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Mandatory Public Disclosure",
+    "description": null,
+    "author": null,
+    "keywords": "Mandatory Public Disclosure ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:19 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6984",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Mandatory Public Disclosure\nA: GENERAL INFORMATION\nSL NO. INFORMATION DETAILS \n1.\tNAME OF THE SCHOOL\tShashi Madan Public School\t\n2.\tAFFILIATION NO.\t2134124\t\n3.\tSCHOOL CODE \t80164\t\n4.\tCOMPLETE ADDRESS WITH PIN CODE\tSHIV SHAKTI NAGAR NH-509, NEAR VENUS SUGAR LTD., CHANDAUSI, SAMBHAL, UTTAR PRADESH - 244412 \t\n5.\tPRINCIPAL NAME\tMR. SANJAY RAJAN\t\n6.\tPRINCIPAL QUALIFICATION\tMA, B.Ed.\t\n7.\tSCHOOL EMAIL ID\t80164@cbseshiksha.in \t\n8.\tCONTACT DETAILS (LANDLINE/MOBILE)\t9258159506, 9258159507\t\nB: DOCUMENTS AND INFORMATION\nSL NO. DOCUMENTS /INFORMATION UPLOADED DOCUMENTS \n1\tCOPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF AFFILIATION, IF ANY\tDownload\t\n2\tCOPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE\tDownload\t\n3\tCOPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT\tDownload\t\n4\tCOPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT’S RENEWAL IF APPLICABLE\tDownload\t\n5\tCOPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE\tDownload\t\n6\tCOPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY\tDownload\t\n7\tCOPY OF THE SELF CERTIFICATION SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION\tDownload\t\n8\tCOPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES\tDownload\t\nC. RESULT AND ACADEMICS\nSl. No. DOCUMENTS/INFORMATION UPLOADED DOCUMENTS \n1.\tFEE STRUCTURE OF THE SCHOOL\tDownload\t\n2.\tANNUAL ACADEMIC CALENDAR\tDownload\t\n3.\tLIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)\tDownload\t\n4.\tLIST OF SCHOOL PARENTS TEACHERS ASSOCIATION (PTA) MEMBERS\tDownload\t\n5.\tLAST THREE-YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY\tNA\t\n6.\tBOOK LIST 2026-27\tDownload\t\nD. STAFF (TEACHING)\nSl.NO. INFORMATION DETAILS \n1\tPRINCIPAL\tMr. SANJAY RAJAN \t\t\n2\tTOTAL NO. OF TEACHERS\t29\t\t\nPGT\t8\t\t\nTGT\t8\t\t\nPRT\t10\t\t\nPET\t1\t\t\n3\tTEACHERS SECTION RATIO\t1.5:1\t\n4\tDETAILS OF SPECIAL EDUCATOR\t1\t\t\n5\tDETAILS OF COUNSELLOR AND WELLNESS TEACHER\t1\t\t\nE. SCHOOL INFRASTRUCTURE\nSl.NO. INFORMATION DETAILS \n1\tTOTAL CAMPUS AREA OF THE SCHOOL (IN SQUARE MTR)\t28470\t\n2\tNO. AND SIZE OF THE CLASS ROOMS (IN SQUARE MTR)\t25 & 54\t\n3\tNO. AND SIZE OF LABORATORIES INCLUDING COMPUTER LABS (IN SQUARE MTR)\t4(82) & 1(176)\t\n4\tINTERNET FACILITY (Y/N)\tYES\t\n5\tNO. OF GIRLS TOILETS\t12\t\n6\tNO. OF BOYS TOILETS\t12\t\n7\tNO. OF CWSN TOILETS\t8\t\n8\tLINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOL COVERING THE INFRASTRUCTURE OF THE SCHOOL\tVISIT",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Mandatory Public Disclosure\n\n#### A: GENERAL INFORMATION\n\n| SL NO. | INFORMATION | DETAILS |\n| --- | --- | --- |\n| 1.  | NAME OF THE SCHOOL | Shashi Madan Public School |\n| 2.  | AFFILIATION NO. | 2134124 |\n| 3.  | SCHOOL CODE | 80164 |\n| 4.  | COMPLETE ADDRESS WITH PIN CODE | SHIV SHAKTI NAGAR NH-509, NEAR VENUS SUGAR LTD., CHANDAUSI, SAMBHAL, UTTAR PRADESH - 244412 |\n| 5.  | PRINCIPAL NAME | MR. SANJAY RAJAN |\n| 6.  | PRINCIPAL QUALIFICATION | MA, B.Ed. |\n| 7.  | SCHOOL EMAIL ID | 80164@cbseshiksha.in |\n| 8.  | CONTACT DETAILS (LANDLINE/MOBILE) | 9258159506, 9258159507 |\n\n#### B: DOCUMENTS AND INFORMATION\n\n| SL NO. | DOCUMENTS /INFORMATION | UPLOADED DOCUMENTS |\n| --- | --- | --- |\n| 1   | COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF AFFILIATION, IF ANY | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779852757963_affiliationLetter.pdf) |\n| 2   | COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853539861_TrustCertificate.pdf) |\n| 3   | COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853642054_NOC.pdf) |\n| 4   | COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT’S RENEWAL IF APPLICABLE | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853711632_RecognitionCertificate.pdf) |\n| 5   | COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853782773_BuildingCertificate.pdf) |\n| 6   | COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1784780865132_FireCertificate.pdf) |\n| 7   | COPY OF THE SELF CERTIFICATION SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779854236265_DEOCertificate.pdf) |\n| 8   | COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853761493_WaterHealthCertificate.pdf) |\n\n#### C. RESULT AND ACADEMICS\n\n| Sl. No. | DOCUMENTS/INFORMATION | UPLOADED DOCUMENTS |\n| --- | --- | --- |\n| 1.  | FEE STRUCTURE OF THE SCHOOL | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779854336234_FeeStructure.pdf) |\n| 2.  | ANNUAL ACADEMIC CALENDAR | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779854400664_AcademicCalender.pdf) |\n| 3.  | LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC) | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779854028266_List_of_SMC.pdf) |\n| 4.  | LIST OF SCHOOL PARENTS TEACHERS ASSOCIATION (PTA) MEMBERS | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1779853592725_List_of_PTA.pdf) |\n| 5.  | LAST THREE-YEAR RESULT OF THE BOARD EXAMINATION AS PER APPLICABILITY | NA  |\n| 6.  | BOOK LIST 2026-27 | [Download](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1777359863222_BOOK_LIST_202627.pdf) |\n\n#### D. STAFF (TEACHING)\n\n| Sl.NO. | INFORMATION | DETAILS |     |\n| --- | --- | --- | --- |\n| 1   | PRINCIPAL | Mr. SANJAY RAJAN |     |\n| 2   | TOTAL NO. OF TEACHERS | 29  |     |\n| PGT | 8   |     |\n| TGT | 8   |     |\n| PRT | 10  |     |\n| PET | 1   |     |\n| 3   | TEACHERS SECTION RATIO | 1.5:1 |\n| 4   | DETAILS OF SPECIAL EDUCATOR | 1   |     |\n| 5   | DETAILS OF COUNSELLOR AND WELLNESS TEACHER | 1   |     |\n\n#### E. SCHOOL INFRASTRUCTURE\n\n| Sl.NO. | INFORMATION | DETAILS |\n| --- | --- | --- |\n| 1   | TOTAL CAMPUS AREA OF THE SCHOOL (IN SQUARE MTR) | 28470 |\n| 2   | NO. AND SIZE OF THE CLASS ROOMS (IN SQUARE MTR) | 25 & 54 |\n| 3   | NO. AND SIZE OF LABORATORIES INCLUDING COMPUTER LABS (IN SQUARE MTR) | 4(82) & 1(176) |\n| 4   | INTERNET FACILITY (Y/N) | YES |\n| 5   | NO. OF GIRLS TOILETS | 12  |\n| 6   | NO. OF BOYS TOILETS | 12  |\n| 7   | NO. OF CWSN TOILETS | 8   |\n| 8   | LINK OF YOUTUBE VIDEO OF THE INSPECTION OF SCHOOL COVERING THE INFRASTRUCTURE OF THE SCHOOL | [VISIT](https://youtu.be/ZHTsC84DhWg) |",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/vendor-form.php",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/vendor-form.php",
+    "loadedTime": "2026-07-25T17:06:23.615Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 6159,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:22 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "6159",
+      "keep-alive": "timeout=5, max=999",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nVendor Form",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n#### Vendor Form\n\n![SMPS, Chandausi](https://smpschandausi.com/images/sm-chandausi-building.jpg)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/SM-education-city",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/SM-education-city",
+    "loadedTime": "2026-07-25T17:06:24.711Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5817,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Education City",
+    "description": null,
+    "author": null,
+    "keywords": "SM Education City ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:23 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5817",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Education City\nMOTTO\nA 21st century learning hub\nVISION\nWe strive to create an inclusive community of empowered lifelong learners where each member is driven towards making a better future for self and the world in a field of their choice.\nVALUES\nPrincipled\nInclusive\nGrowth\nService\nMISSION\nTo foster critical thinking, encourage creativity, provide opportunities for collaboration and open communication.\nTo provide robust infrastructure for learning in different areas of academics, sports and vocations.\nTo support students to find the right fit in making learning choices.\nTo create an ambience where differences are respected, celebrated and used for enrichment.\nTo imbibe a growth mindset.\nTo sensitize about the needs of the society encouraging a sense of responsibility.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Education City\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n![jai public school admission](https://smpschandausi.com/assets/icons/vission.svg)\n\n##### MOTTO\n\nA 21st century learning hub\n\n![jai public school admission](https://smpschandausi.com/assets/icons/vission.svg)\n\n##### VISION\n\nWe strive to create an inclusive community of empowered lifelong learners where each member is driven towards making a better future for self and the world in a field of their choice.\n\n![jai public school admission](https://smpschandausi.com/assets/icons/values.svg)\n\n##### VALUES\n\n*   Principled\n*   Inclusive\n*   Growth\n*   Service\n\n![jai public school admission](https://smpschandausi.com/assets/icons/mission.svg)\n\n##### MISSION\n\n*   To foster critical thinking, encourage creativity, provide opportunities for collaboration and open communication.\n*   To provide robust infrastructure for learning in different areas of academics, sports and vocations.\n*   To support students to find the right fit in making learning choices.\n*   To create an ambience where differences are respected, celebrated and used for enrichment.\n*   To imbibe a growth mindset.\n*   To sensitize about the needs of the society encouraging a sense of responsibility.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/hiring",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/404.php",
+    "loadedTime": "2026-07-25T17:06:25.353Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 11504,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:24 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "11504",
+      "keep-alive": "timeout=5, max=999",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/founder-chairman",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/founder-chairman",
+    "loadedTime": "2026-07-25T17:06:31.517Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5955,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Founder Chairman",
+    "description": null,
+    "author": null,
+    "keywords": "Founder Chairman ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:30 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5955",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Founder Chairman\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer.\nMr. Singh started his first small scale unit in Meerut. He went on to become the Chairman of the Cooperative Bank of Meerut District in 1978. In 1983, he set up a medium scale cement unit in Dehradun and was elected the President of the Federation of Mini Cement Plants of India. Thereafter he became a member of the Productivity Council of India. Following his inner voice, Mr. Singh donated land to Sophia School Meerut’ in the village Achronda, near his village to provide education to the deprived villagers.\nMr. M P Singh’s strong urge to give back to society became a reality with the M P Singh Foundation coming into being. The fulfilling feeling of giving back and contributing to society is unparalleled. And, giving back in the form of greatest treasure – ‘Education’ is unparalleled service.\nMr. M.P. Singh\nFounder chairman",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Founder Chairman\n\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer.\n\nMr. Singh started his first small scale unit in Meerut. He went on to become the Chairman of the Cooperative Bank of Meerut District in 1978. In 1983, he set up a medium scale cement unit in Dehradun and was elected the President of the Federation of Mini Cement Plants of India. Thereafter he became a member of the Productivity Council of India. Following his inner voice, Mr. Singh donated land to Sophia School Meerut’ in the village Achronda, near his village to provide education to the deprived villagers.\n\nMr. M P Singh’s strong urge to give back to society became a reality with the M P Singh Foundation coming into being. The fulfilling feeling of giving back and contributing to society is unparalleled. And, giving back in the form of greatest treasure – ‘Education’ is unparalleled service.\n\n**Mr. M.P. Singh**  \nFounder chairman",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/chairperson",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/chairperson",
+    "loadedTime": "2026-07-25T17:06:32.903Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5798,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Chairperson",
+    "description": null,
+    "author": null,
+    "keywords": "Chairperson ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:31 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "5798",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Chairperson\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she had envisioned her actions motivated purely by altruism. Success story of the same can be understood, by the testimony of being able to add another feather to the crown within 5 years, ie, establishment of another branch, Delhi Public School Dehradun in 2008, where again she served as a PVC, whose motive was to make the world class education available and within the reach of all. In 2018, Delhi Public School Daurala. She has been instrumental in making this dream a reality with her passion and hard-work.\nMrs. Shashi Singh\nChairperson",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Chairperson\n\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\n\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she had envisioned her actions motivated purely by altruism. Success story of the same can be understood, by the testimony of being able to add another feather to the crown within 5 years, ie, establishment of another branch, Delhi Public School Dehradun in 2008, where again she served as a PVC, whose motive was to make the world class education available and within the reach of all. In 2018, Delhi Public School Daurala. She has been instrumental in making this dream a reality with her passion and hard-work.\n\n**Mrs. Shashi Singh**  \nChairperson",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/managing-director",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/managing-director",
+    "loadedTime": "2026-07-25T17:06:38.840Z",
+    "referrerUrl": "https://smpschandausi.com/sitemap.xml",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 5745,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "Managing Director",
+    "description": null,
+    "author": null,
+    "keywords": "Managing Director ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "5745",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:38 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Managing Director\nAtul Kumar Singh an MBA graduate in Marketing & Finance.\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.\nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any.\nHe decided to give a name to his dream and dedicated it to his parents, so the name SHASHI MADAN EDUCATION CITY(SMEC). SMEC, as the name suggests will be a full Education city which will have school, Vocational Colleges, Graduation Colleges, Post Graduation Colleges, State of Art Sports Stadium with all international facilities.\nThe first step in fulfilling this dream is SHASHI MADAN PUBLIC SCHOOL which will provide the best of education with all the luxury at an affordable cost.\nAtul Kumar Singh\nManaging Director",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Managing Director\n\nAtul Kumar Singh an MBA graduate in Marketing & Finance.\n\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.  \nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any.  \nHe decided to give a name to his dream and dedicated it to his parents, so the name SHASHI MADAN EDUCATION CITY(SMEC). SMEC, as the name suggests will be a full Education city which will have school, Vocational Colleges, Graduation Colleges, Post Graduation Colleges, State of Art Sports Stadium with all international facilities.\n\nThe first step in fulfilling this dream is SHASHI MADAN PUBLIC SCHOOL which will provide the best of education with all the luxury at an affordable cost.\n\n**Atul Kumar Singh**  \nManaging Director",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=4",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=4",
+    "loadedTime": "2026-07-25T17:06:40.318Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6614,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6614",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:39 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nVividhanjali Celebration 2023",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\nVividhanjali Celebration 2023\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952849356_DSC_0890.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952849356_DSC_0890.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952848427_DSC_0879.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952848427_DSC_0879.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952823566_DSC_0250.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952823566_DSC_0250.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952824236_DSC_0252_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952824236_DSC_0252_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952822237_DSC_0234_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952822237_DSC_0234_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952822855_DSC_0246.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952822855_DSC_0246.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952821233_DSC_0232_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952821233_DSC_0232_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952819753_DSC_0229_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952819753_DSC_0229_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952826560_DSC_0653_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952826560_DSC_0653_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952827715_DSC_0856.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952827715_DSC_0856.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952824805_DSC_0252.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952824805_DSC_0252.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952828539_DSC_4309_1.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952828539_DSC_4309_1.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952825747_DSC_0530.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952825747_DSC_0530.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952749092_DSC_0439.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952749092_DSC_0439.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952749827_DSC_0456.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952749827_DSC_0456.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748669_DSC_0401.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748669_DSC_0401.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748871_DSC_0428.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748871_DSC_0428.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748460_DSC_0394.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952748460_DSC_0394.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952747930_DSC_0331.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952747930_DSC_0331.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952752806_DSC_0515.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952752806_DSC_0515.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952753778_DSC_0589.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952753778_DSC_0589.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952750823_DSC_0462.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952750823_DSC_0462.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952752188_DSC_0476.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732952752188_DSC_0476.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950928244_DSC_3276.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950928244_DSC_3276.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950928650_DSC_3383.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950928650_DSC_3383.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927406_DSC_3248.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927406_DSC_3248.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927598_DSC_3255.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927598_DSC_3255.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927154_DSC_3070.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950927154_DSC_3070.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950926428_DSC_3052.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950926428_DSC_3052.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950930272_DSC_3415.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950930272_DSC_3415.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950929217_DSC_3393.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950929217_DSC_3393.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950929885_DSC_3400.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1732950929885_DSC_3400.JPG)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=6",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=6",
+    "loadedTime": "2026-07-25T17:06:42.240Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6282,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6282",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:41 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nSpecial Events 2023 \nSpecial Events 2023",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Special Events 2023\n\nSpecial Events 2023\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524892_c14e9e0702bb4b8494149cd2d76f3dee.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524892_c14e9e0702bb4b8494149cd2d76f3dee.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830525025_9dae4a81cc9f4aa6b130e0cab2da54a3.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830525025_9dae4a81cc9f4aa6b130e0cab2da54a3.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524793_IMG_1551.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524793_IMG_1551.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524131_IMG_1572.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738830524131_IMG_1572.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430545_WhatsAppImage20230905at10.18.41AM1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430545_WhatsAppImage20230905at10.18.41AM1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430874_WhatsAppImage20230905at11.34.00AM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430874_WhatsAppImage20230905at11.34.00AM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429821_WhatsAppImage20230816at10.24.10AM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429821_WhatsAppImage20230816at10.24.10AM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430232_WhatsAppImage20230816at10.24.10AM9.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735430232_WhatsAppImage20230816at10.24.10AM9.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429640_IMG_1152.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429640_IMG_1152.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429220_7cbe4c279b7d4ef68974f212ff96615c.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735429220_7cbe4c279b7d4ef68974f212ff96615c.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735431364_WhatsAppImage20241224at9.44.11AM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735431364_WhatsAppImage20241224at9.44.11AM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735431797_WhatsAppImage20241224at9.44.15AM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738735431797_WhatsAppImage20241224at9.44.15AM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727934784_IMG_1148.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727934784_IMG_1148.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935153_IMG_1154.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935153_IMG_1154.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727933873_IMG_1165.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727933873_IMG_1165.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727934352_IMG_1147_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727934352_IMG_1147_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727933238_IMG_1157.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727933238_IMG_1157.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727932037_IMG_1159.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727932037_IMG_1159.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935499_IMG_1151.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935499_IMG_1151.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935749_IMG_1152_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738727935749_IMG_1152_1.jpeg)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=7",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=7",
+    "loadedTime": "2026-07-25T17:06:44.031Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6595,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6595",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:43 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nVividhanjali 2024 \nVividhanjali 2024",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Vividhanjali 2024\n\nVividhanjali 2024\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565501_IMG20241109WA0033.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565501_IMG20241109WA0033.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564942_IMG20241109WA0017.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564942_IMG20241109WA0017.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565128_IMG20241109WA0019.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565128_IMG20241109WA0019.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564828_IMG20241109WA0016.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564828_IMG20241109WA0016.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564631_IMG20241109WA0004.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744564631_IMG20241109WA0004.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565845_IMG20241109WA0044.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565845_IMG20241109WA0044.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565980_IMG20241109WA0045.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565980_IMG20241109WA0045.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565668_IMG20241109WA0036.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565668_IMG20241109WA0036.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565751_IMG20241109WA0039.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744565751_IMG20241109WA0039.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433348_IMG20241109WA0038.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433348_IMG20241109WA0038.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433277_IMG20241109WA0029.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433277_IMG20241109WA0029.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433125_IMG20241109WA0020.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744433125_IMG20241109WA0020.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320842_IMG20241109WA0064.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320842_IMG20241109WA0064.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321019_IMG20241109WA0066.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321019_IMG20241109WA0066.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320626_IMG20241109WA0059.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320626_IMG20241109WA0059.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320726_IMG20241109WA0060.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320726_IMG20241109WA0060.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320510_IMG20241109WA0058.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320510_IMG20241109WA0058.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320415_IMG20241109WA0050.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744320415_IMG20241109WA0050.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321429_IMG20241109WA0076.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321429_IMG20241109WA0076.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321533_IMG20241109WA0079.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321533_IMG20241109WA0079.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321112_IMG20241109WA0069.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321112_IMG20241109WA0069.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321264_IMG20241109WA0074.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744321264_IMG20241109WA0074.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242587_IMG20241109WA0086.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242587_IMG20241109WA0086.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242428_IMG20241109WA0051.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242428_IMG20241109WA0051.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242281_IMG20241109WA0013.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744242281_IMG20241109WA0013.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123028_IMG20241109WA0022.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123028_IMG20241109WA0022.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123172_IMG20241109WA0025.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123172_IMG20241109WA0025.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122787_IMG20241109WA0012.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122787_IMG20241109WA0012.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122907_IMG20241109WA0015.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122907_IMG20241109WA0015.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122738_IMG20241109WA0011.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122738_IMG20241109WA0011.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122456_IMG20241109WA0009.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744122456_IMG20241109WA0009.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123278_IMG20241109WA0027.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123278_IMG20241109WA0027.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123348_IMG20241109WA0030.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738744123348_IMG20241109WA0030.jpg)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=8",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=8",
+    "loadedTime": "2026-07-25T17:06:44.063Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6107,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6107",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:43 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nSports \nSports",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Sports\n\nSports \n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747573404_Screenshot_2.png)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747573404_Screenshot_2.png)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747485145_Screenshot.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747485145_Screenshot.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747195400_cricket.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747195400_cricket.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747152745_IMG20241109WA0072.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747152745_IMG20241109WA0072.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747152307_IMG20241109WA0050.jpg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747152307_IMG20241109WA0050.jpg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747017623_DSC_3148.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747017623_DSC_3148.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747016650_DSC_3125.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738747016650_DSC_3125.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746728475_DSC_3400.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746728475_DSC_3400.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746475673_SCA_9678.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746475673_SCA_9678.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746476596_SCA_9718.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746476596_SCA_9718.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746474455_SCA_9634.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746474455_SCA_9634.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746475120_SCA_9656.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746475120_SCA_9656.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746473667_SCA_9590Copy.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746473667_SCA_9590Copy.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746472891_SCA_9511.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746472891_SCA_9511.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746477125_SCA_9720.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738746477125_SCA_9720.JPG)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=9",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=9",
+    "loadedTime": "2026-07-25T17:06:45.914Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6197,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6197",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:45 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nKailash Kher is an iconic Indian singer, composer, and lyricist.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\nKailash Kher is an iconic Indian singer, composer, and lyricist.\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737305886_IMG_6432.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737305886_IMG_6432.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737305260_IMG_6422.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737305260_IMG_6422.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302505_IMG_6389.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302505_IMG_6389.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737304718_IMG_6406.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737304718_IMG_6406.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302982_IMG_6394.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302982_IMG_6394.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737303883_IMG_6405.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737303883_IMG_6405.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737301601_IMG_6362.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737301601_IMG_6362.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737303492_IMG_6397.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737303492_IMG_6397.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302025_IMG_6363.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737302025_IMG_6363.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737300723_IMG_6346.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737300723_IMG_6346.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737301043_IMG_6360.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737301043_IMG_6360.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737299544_IMG_6344.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737299544_IMG_6344.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737300171_IMG_6345.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737300171_IMG_6345.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737298912_IMG_6340.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737298912_IMG_6340.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737297914_IMG_6322.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737297914_IMG_6322.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737189749_IMG_6320.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738737189749_IMG_6320.jpeg)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=10",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=10",
+    "loadedTime": "2026-07-25T17:06:46.940Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6031,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6031",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:46 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nOur Classroom \nOur Classroom",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Our Classroom\n\nOur Classroom\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750742076_IMG_7166.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750742076_IMG_7166.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750742837_IMG_7168.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750742837_IMG_7168.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741467_IMG_7162.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741467_IMG_7162.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741695_IMG_7164.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741695_IMG_7164.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741226_IMG_7160.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750741226_IMG_7160.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750740541_IMG_7158.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750740541_IMG_7158.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750040378_FC1DD2211F904F7A95F6C1FAAE33EE02.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738750040378_FC1DD2211F904F7A95F6C1FAAE33EE02.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926375_WhatsApp_Image_20250205_at_3.34.36_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926375_WhatsApp_Image_20250205_at_3.34.36_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926517_WhatsApp_Image_20250205_at_3.34.37_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926517_WhatsApp_Image_20250205_at_3.34.37_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926252_WhatsApp_Image_20250205_at_3.34.36_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738749926252_WhatsApp_Image_20250205_at_3.34.36_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738748534060_IMG_7143.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1738748534060_IMG_7143.jpeg)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.smpschandausi.com/online-forms/registration/",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/online-forms/registration/",
+    "loadedTime": "2026-07-25T17:06:42.912Z",
+    "referrerUrl": "https://smpschandausi.com/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 10969,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/online-forms/registration/",
+    "title": "Registration Form",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:40 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "10969",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Registration Form\nRegister by entering the information mentioned below\nInstructions \nStudent And Parent Details \nUpload Documents \nComplete \nGeneral Instructions:\nPlease read all instructions carefully before filling the Online Registration Form.\nWe recommend that you use Chrome or Mozilla Firefox browser for filling this form.\nFilling up this form does not guarantee admission of your child. Admission is strictly as per the policy formulated based on MERIT and NO DONATIONS ACCEPTED.\nYou would be required to upload certain documents in the Documents stage. Kindly have soft copies of the following documents ready before starting to fill the form.\nThe intimation for assessment / observation / interaction / interview / Admission Confirmation will be notified via Email / SMS.\n\nDocuments Required During the Admission Process:\nDocuments required for Applicants are Passport size picture, Birth certificate, Transfer certificate & Report card.\nDocuments required for Parents are Passport size picture, PAN card and Aadhaar Card.\nAll document file sizes should be less than 1 MB. All document file types should be in PDF / JPEG / JPG format except applicant and parents passport size photo file type should be JPEG / JPG only.\nBirth Certificate issued by Municipal Corporation or issued by Govt. Hospital shall be accepted.\nThe application form should be submitted before the scheduled date / time. Late submission of the application form will not be accepted / considered. Incomplete forms will not be accepted / considered.\n\nI have read and agree to abide by the instructions mentioned above by the authorities of the School.\n\nDocuments Details:\nStep 2 / 3\n* All File size should not be more than 1 MB and should be in png, jpg, pdf. \nChild Birth Certificate \nChoose File\nNo file chosen...\nChild Previous Year Marksheet\nChoose File\nNo file chosen...\nParent Aadhaar\nChoose File\nNo file chosen...\nChild Aadhaar\nChoose File\nNo file chosen...\nTransfer Certificate\nChoose File\nNo file chosen...\nvaccination Certificate\nChoose File\nNo file chosen...\nDeclaration by the Parent / Guardian: \nI understand that incomplete application form will not be considered.\nI affirm to abide by the rules & regulations laid down or amended by the authorities of the School.\nI hereby confirm that the details in this form are true and correct to the best of my knowledge.\nI Agree\nComplete:\nStep 4 / 4\nSubmitted Successfully \nYou have successfully submitted your details.\nComplete:\nStep 3 / 3\nNot Submitted \nYou have not successfully submitted your details.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# Registration Form\n\nRegister by entering the information mentioned below\n\n*   **Instructions**\n*   **Student And Parent Details**\n*   **Upload Documents**\n*   **Complete**\n\n## General Instructions:\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) Please read all instructions carefully before filling the Online Registration Form.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) We recommend that you use Chrome or Mozilla Firefox browser for filling this form.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) Filling up this form does not guarantee admission of your child. Admission is strictly as per the policy formulated based on MERIT and NO DONATIONS ACCEPTED.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) You would be required to upload certain documents in the Documents stage. Kindly have soft copies of the following documents ready before starting to fill the form.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) The intimation for assessment / observation / interaction / interview / Admission Confirmation will be notified via Email / SMS.\n\n  \n\n## Documents Required During the Admission Process:\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) Documents required for Applicants are Passport size picture, Birth certificate, Transfer certificate & Report card.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) Documents required for Parents are Passport size picture, PAN card and Aadhaar Card.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) All document file sizes should be less than 1 MB. All document file types should be in PDF / JPEG / JPG format except applicant and parents passport size photo file type should be JPEG / JPG only.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) Birth Certificate issued by Municipal Corporation or issued by Govt. Hospital shall be accepted.\n\n![](https://www.smpschandausi.com/online-forms/registration/images/navigation.svg) The application form should be submitted before the scheduled date / time. Late submission of the application form will not be accepted / considered. Incomplete forms will not be accepted / considered.\n\n  \n\n##    I have read and agree to abide by the instructions mentioned above by the authorities of the School.\n\n  \n\n## Documents Details:\n\n## Step 2 / 3\n\n\\* All File size should not be more than 1 MB and should be in png, jpg, pdf.\n\nChild Birth Certificate\n\nChoose File\n\nNo file chosen...\n\nChild Previous Year Marksheet\n\nChoose File\n\nNo file chosen...\n\nParent Aadhaar\n\nChoose File\n\nNo file chosen...\n\nChild Aadhaar\n\nChoose File\n\nNo file chosen...\n\nTransfer Certificate\n\nChoose File\n\nNo file chosen...\n\nvaccination Certificate\n\nChoose File\n\nNo file chosen...\n\n## Declaration by the Parent / Guardian:\n\nI understand that incomplete application form will not be considered.\n\nI affirm to abide by the rules & regulations laid down or amended by the authorities of the School.\n\nI hereby confirm that the details in this form are true and correct to the best of my knowledge.\n\n**I Agree**\n\n## Complete:\n\n## Step 4 / 4\n\n![](https://www.smpschandausi.com/online-forms/registration/images/submitted-img.svg)\n\n## **Submitted Successfully**\n\n##### You have successfully submitted your details.\n\n## Complete:\n\n## Step 3 / 3\n\n![](https://www.smpschandausi.com/online-forms/registration/images/not-submitted-img.svg)\n\n## **Not Submitted**\n\n##### You have not successfully submitted your details.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=11",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=11",
+    "loadedTime": "2026-07-25T17:06:47.428Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6943,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6943",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:47 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nVividhanjali 3.0 (2025) \nVividhanjali 3.0 (2025)",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Vividhanjali 3.0 (2025)\n\nVividhanjali 3.0 (2025)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674444_DSC_1944.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674444_DSC_1944.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674211_DSC_1939.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674211_DSC_1939.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673914_DSC_1933.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673914_DSC_1933.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673654_DSC_1918.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673654_DSC_1918.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675213_DSC_1952.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675213_DSC_1952.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674985_DSC_1951.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674985_DSC_1951.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674701_DSC_1948.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618674701_DSC_1948.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673419_DSC_1906.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673419_DSC_1906.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673211_DSC_1887.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673211_DSC_1887.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673046_DSC_1884.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618673046_DSC_1884.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618677300_DSC_2021.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618677300_DSC_2021.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618677053_DSC_2019.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618677053_DSC_2019.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676765_DSC_2017.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676765_DSC_2017.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676553_DSC_2014.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676553_DSC_2014.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672666_DSC_1850.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672666_DSC_1850.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676325_DSC_2010.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676325_DSC_2010.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672863_DSC_1876.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672863_DSC_1876.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676093_DSC_2006.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618676093_DSC_2006.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672420_DSC_1825.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672420_DSC_1825.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675789_DSC_1995.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675789_DSC_1995.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672561_DSC_1837.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672561_DSC_1837.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675504_DSC_1959.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618675504_DSC_1959.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672171_DSC_1809.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672171_DSC_1809.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672320_DSC_1811.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618672320_DSC_1811.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671879_DSC_1779.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671879_DSC_1779.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671993_DSC_1797.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671993_DSC_1797.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671771_DSC_1766.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671771_DSC_1766.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671438_DSC_1752.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618671438_DSC_1752.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359278_DSC_1782.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359278_DSC_1782.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359108_DSC_1779.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359108_DSC_1779.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358974_DSC_1774.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358974_DSC_1774.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358779_DSC_1773.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358779_DSC_1773.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359627_DSC_1787.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359627_DSC_1787.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359412_DSC_1786.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618359412_DSC_1786.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358091_DSC_1760.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358091_DSC_1760.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358637_DSC_1771.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358637_DSC_1771.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358196_DSC_1761.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358196_DSC_1761.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358494_DSC_1764.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618358494_DSC_1764.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357751_DSC_1758.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357751_DSC_1758.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357919_DSC_1759.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357919_DSC_1759.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357541_DSC_1756.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357541_DSC_1756.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357640_DSC_1757.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357640_DSC_1757.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357249_DSC_1752.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357249_DSC_1752.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357363_DSC_1754.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357363_DSC_1754.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357149_DSC_1751.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618357149_DSC_1751.JPG)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618356901_DSC_1747.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1770618356901_DSC_1747.JPG)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=12",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=12",
+    "loadedTime": "2026-07-25T17:06:48.673Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 5899,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "5899",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:48 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nEvents & Activity (2025-26) \nEvents & Activity (2025-26)",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Events & Activity (2025-26)\n\nEvents & Activity (2025-26)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962924_WhatsApp_Image_20260218_at_11.00.15_AM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962924_WhatsApp_Image_20260218_at_11.00.15_AM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907963303_WhatsApp_Image_20260218_at_11.00.15_AM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907963303_WhatsApp_Image_20260218_at_11.00.15_AM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962412_WhatsApp_Image_20260218_at_11.00.15_AM_3.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962412_WhatsApp_Image_20260218_at_11.00.15_AM_3.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962671_WhatsApp_Image_20260218_at_11.00.15_AM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962671_WhatsApp_Image_20260218_at_11.00.15_AM_2.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962243_WhatsApp_Image_20260218_at_11.00.15_AM_4.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907962243_WhatsApp_Image_20260218_at_11.00.15_AM_4.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907957337_IMG_2821.JPG)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771907957337_IMG_2821.JPG)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/image-gallery-detail.php?gal_id=13",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/image-gallery-detail.php?gal_id=13",
+    "loadedTime": "2026-07-25T17:06:49.143Z",
+    "referrerUrl": "https://smpschandausi.com/gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 6359,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "6359",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:48 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual\nPariksha Pe Charcha 2026 \nPariksha Pe Charcha 2026",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandausi-logo.png)](https://smpschandausi.com/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)](https://smpschandausi.com/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/images/chandusi-white.png)\n\n## Pariksha Pe Charcha 2026\n\n### Pariksha Pe Charcha 2026\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908291407_WhatsApp_Image_20260209_at_6.09.23_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908291407_WhatsApp_Image_20260209_at_6.09.23_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908288771_WhatsApp_Image_20260209_at_6.09.22_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908288771_WhatsApp_Image_20260209_at_6.09.22_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908285940_WhatsApp_Image_20260209_at_6.09.22_PM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908285940_WhatsApp_Image_20260209_at_6.09.22_PM_2.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908272189_WhatsApp_Image_20260209_at_6.09.20_PM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908272189_WhatsApp_Image_20260209_at_6.09.20_PM_2.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908283331_WhatsApp_Image_20260209_at_6.09.22_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908283331_WhatsApp_Image_20260209_at_6.09.22_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908274464_WhatsApp_Image_20260209_at_6.09.20_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908274464_WhatsApp_Image_20260209_at_6.09.20_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908277759_WhatsApp_Image_20260209_at_6.09.21_PM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908277759_WhatsApp_Image_20260209_at_6.09.21_PM_2.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908268850_WhatsApp_Image_20260209_at_6.09.19_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908268850_WhatsApp_Image_20260209_at_6.09.19_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908275770_WhatsApp_Image_20260209_at_6.09.21_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908275770_WhatsApp_Image_20260209_at_6.09.21_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908271144_WhatsApp_Image_20260209_at_6.09.20_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908271144_WhatsApp_Image_20260209_at_6.09.20_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908263206_WhatsApp_Image_20260209_at_6.09.19_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908263206_WhatsApp_Image_20260209_at_6.09.19_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908266745_WhatsApp_Image_20260209_at_6.09.19_PM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908266745_WhatsApp_Image_20260209_at_6.09.19_PM_2.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908256911_WhatsApp_Image_20260209_at_6.09.18_PM_1.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908256911_WhatsApp_Image_20260209_at_6.09.18_PM_1.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908260054_WhatsApp_Image_20260209_at_6.09.18_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908260054_WhatsApp_Image_20260209_at_6.09.18_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908252149_WhatsApp_Image_20260209_at_6.09.24_PM.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908252149_WhatsApp_Image_20260209_at_6.09.24_PM.jpeg)\n\n[![image](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908247867_WhatsApp_Image_20260209_at_6.09.23_PM_2.jpeg)](https://edunext-main-storage-cf.edunexttechnologies.com/smpschandausi/school___static/1771908247867_WhatsApp_Image_20260209_at_6.09.23_PM_2.jpeg)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://smpschandausi.com/channel/UCe6GcEv4gINfOjooLv3faPQ",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/404.php",
+    "loadedTime": "2026-07-25T17:06:50.349Z",
+    "referrerUrl": "https://smpschandausi.com/video-gallery.php",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 11504,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "content-encoding": "gzip",
+      "content-length": "11504",
+      "content-type": "text/html; charset=UTF-8",
+      "date": "Sat, 25 Jul 2026 17:06:50 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nFollow Us \nEdunext ERP Login\nMobile App Manual",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![Best School in Chandausi](https://smpschandausi.com/channel/images/chandausi-logo.png)](https://smpschandausi.com/channel/index.php)\n\nFollow Us\n\n*   [](https://www.facebook.com/shashimadanpublicschool)\n*   [](https://www.instagram.com/shashimadanpublicschool/)\n*   [](https://twitter.com/smpschandausi?s=21)\n\n*   [Edunext ERP Login](https://smpschandausi.edunexttechnologies.com/)\n\n*   [Mobile App Manual](https://edunexttechnologies.com/portal-help.php)\n\n![Best School in Chandausi](https://smpschandausi.com/channel/assets/images/jaipublic_icon-bar.png)\n\n[![Best School in Chandausi](https://smpschandausi.com/channel/images/chandusi-white.png)](https://smpschandausi.com/channel/index.php)\n\n![ Best School in Chandausi](https://smpschandausi.com/channel/images/chandusi-white.png)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.smpschandausi.com/",
+  "crawl": {
+    "loadedUrl": "https://smpschandausi.com/",
+    "loadedTime": "2026-07-25T17:06:52.760Z",
+    "referrerUrl": "https://www.smpschandausi.com/online-forms/registration/",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 12966,
+    "contentType": "text/html; charset=UTF-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://smpschandausi.com/",
+    "title": "SM Chandausi School | Best School in Chandausi | Top School in Chandausi",
+    "description": null,
+    "author": null,
+    "keywords": "SMPS Chandausi, Sashi Madan Public School, SMPS School, Best School in Chandausi, Top School in Chandausi ",
+    "languageCode": "en",
+    "jsonLd": null,
+    "headers": {
+      "date": "Sat, 25 Jul 2026 17:06:51 GMT",
+      "server": "Apache",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "content-length": "12966",
+      "keep-alive": "timeout=5, max=1000",
+      "connection": "Keep-Alive",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "SM Chandausi School | Best School in Chandausi\nNEWS\nWELCOME TO\nMP SINGH FOUNDATION\nMP SINGH FOUNDATION \nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious. \nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students. \nRead More \nMr. M.P. Singh\nFounder Chairman\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... Read More\nMrs. Shashi Singh\nChairperson\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.\nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... Read More \nAtul Kumar Singh\nManaging Director\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.\nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.\nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... Read More\nWHAT WE OFFER\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n10 acre ground\n(Campus)\nConference Room\n(Campus) \nGreen Campus\n(Campus)\nCalm Ambience\n(Campus)\nState of Art Amenities\n(Campus)\nSchool Building\n(Campus)\nClass Room\n(Education)\nActivity Room \n(Education) \nComputer Lab\n(Education)\nMath Lab \n(Education)\nScience Lab\n(Education)\nLibrary\n(Education)\nCarrom\n(Indoor Games)\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\nChess\n(Indoor Games)\nTable Tennis\n(Indoor Games) \nCricket\n(Outdoor Games)\nKho Kho\n(Outdoor Games)\nSkating\n(Outdoor Games)\nBasketball\n(Outdoor Games) \nActivity\n(Other Facilites)\nDance \n(Other Facilites)\nWHY US\nWHY CHOOSE US\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\nPHASE 1\nK-12 school and sports academy\nPHASE 2\nVocational courses\nPHASE 3\nGraduate and Postgraduate degrees\nOUR AFFILIATES\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "html": null,
+  "htmlUrl": null,
+  "markdown": "# SM Chandausi School | Best School in Chandausi\n\n[![SMPS, Chandausi](https://www.smpschandausi.com/images/WhatsApp.webp)](https://wa.me/+919258159506 \"Whatsapp\")\n\n![SMPS, Chandausi](https://www.smpschandausi.com/assets/icons/news.svg)\n\n###### NEWS\n\nWELCOME TO\n\n## MP SINGH FOUNDATION\n\n![SM-Chandausi-foundation](https://www.smpschandausi.com/assets/images/sm-chandausi-4.png)\n\nMP SINGH FOUNDATION\n\nM.P. Singh foundation is a registered charitable trust. It is a non-profit trust, to promote, establish, run, develop and manage institutions and organizations in various fields beneficial to the community without any discrimination of caste, color and creed. There is no better There is no better place for a child to appreciate the joys of nature and to become environmentally conscious.\n\nIn 2002, M.P. Singh Foundation established Delhi Public School, Meerut under the aegis of the Delhi Public School Society, Meerut, which has two branches now; A) main branch Delhi Public School,Baghpatroad, B) Delhi Public School, Daurala. The school is running solid with 2200 students.\n\n[Read More](https://www.smpschandausi.com/about-us)\n\n![SM-Chandausi-foundation](https://www.smpschandausi.com/assets/images/sm-chandausi-2.png)\n\n![SM-Chandausi-foundation](https://www.smpschandausi.com/assets/images/merut.png)\n\n## Mr. M.P. Singh\n\n###### Founder Chairman\n\nLife is a sum of your choices-Albert Camus, is vividly brought to life in the story of Shri M. P. Singh ji, a great man and an educationist who continues to live on in the hearts of the lives he touched. Born on the 1st of May, 1947 in village Partapur in Meerut District, Uttar Pradesh in a middle-class agricultural family Mr. M.P. Singh after completing his schooling from his native village pursued his graduation in Mechanical Engineering from Kurukshetra University. He was an F.I.E. and Chartered Engineer ... [Read More](https://www.smpschandausi.com/founder-chairman)\n\n![SM Chandausi Chairman](https://www.smpschandausi.com/assets/images/mp-singh.png)\n\n## Mrs. Shashi Singh\n\n###### Chairperson\n\nThe current chairperson of M P Singh Foundation is Mrs. Shashi Rani born on 07th January 1952 in Moradabad, Ms Shashi Rani achieved her academic accolades as a meritorious student. She did her Graduation in Zoology and later she pursued a Masters in Psychology to enable herself to be more reflective and proactive, to achieve her bigger vision in the field of Education.  \nBecoming a Pro Vice Chairperson at Delhi Public School Meerut in 2002, was not a benevolent opportunity for her but a responsibility with which she ... [Read More](https://www.smpschandausi.com/chairperson)\n\n![SM Chandausi Chairman](https://www.smpschandausi.com/assets/images/chairperson.png)\n\n## Atul Kumar Singh\n\n###### Managing Director\n\nAt the age of 42yrs has a vast experience of 20 yrs in the field of Manufacturing, Branding and Education.  \nHe has to his credit Successful schools of Delhi Public Schools, Sugar Factory including others.  \nSince his early years Mr. Singh always wanted to do something good for the society and he decided what better than education. With this dedication he dreamt of an world class educational infrastructure where education can be given to all without differentiating between any ... [Read More](https://www.smpschandausi.com/managing-director)\n\n![SM Chandausi Director](https://www.smpschandausi.com/assets/images/atul-singh.png)\n\n## WHAT WE OFFER\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0030.jpg)\n\n###### 10 acre ground  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/conference.jpg)\n\n###### Conference Room  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0026.jpg)\n\n###### Green Campus  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105255689_HDR_AE.jpg)\n\n###### Calm Ambience  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_20241009_105003539_HDR_AE.jpg)\n\n###### State of Art Amenities  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241129-WA0028.jpg)\n\n###### School Building  \n_(Campus)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG_8465.jpg)\n\n###### Class Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/activity-room.jpg)\n\n###### Activity Room  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/computerlab.jpg)\n\n###### Computer Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/mathslab.jpg)\n\n###### Math Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/sciencelab.jpg)\n\n###### Science Lab  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/library-new.jpg)\n\n###### Library  \n_(Education)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/carrom.jpg)\n\n###### Carrom  \n_(Indoor Games)_\n\nWe Have an huge football ground for kids. We encourage our young ones to play sports.\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/Chess.jpg)\n\n###### Chess  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/tabletennis.jpg)\n\n###### Table Tennis  \n_(Indoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/cricket.jpg)\n\n###### Cricket  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/kho-kho.jpg)\n\n###### Kho Kho  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/skating.jpg)\n\n###### Skating  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/basketball.jpg)\n\n###### Basketball  \n_(Outdoor Games)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/IMG-20241109-WA0014.jpg)\n\n###### Activity  \n_(Other Facilites)_\n\n![Sm Chandausi Campus](https://resources.edunexttechnologies.com/web-data/smpschandausi/img/dance.jpg)\n\n###### Dance  \n_(Other Facilites)_\n\nWHY US\n\n## WHY CHOOSE US\n\nAs a signatory to the 2030 Agenda for sustainable development goals, India has taken up the responsibility of providing quality education. SDG4 aims at providing an inclusive, holistic and equitable education that will empower its citizens to become aware, employable, responsible world citizens. Keeping this in mind, M P Singh foundation plans to launch an Education city which will spread over 100 acre land. The education city will have something to offer to all learners irrespective of their age, gender, or background qualification. The idea is to support the community members to grow and prosper in a field of their choice.\n\n![Best School in Chandausi](https://www.smpschandausi.com/images/whyus1.png)\n\n###### **PHASE 1**\n\nK-12 school and sports academy\n\n![ Best School in Chandausi](https://www.smpschandausi.com/images/whyus2.png)\n\n###### **PHASE 2**\n\nVocational courses\n\n![ Best School in Chandausi](https://www.smpschandausi.com/images/whyus3.png)\n\n###### **PHASE 3**\n\nGraduate and Postgraduate degrees\n\n## OUR AFFILIATES\n\nIncorporating latest educational technology to make the learning environment more experimental with a key focus on real -world applications of concepts.",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+}]
